@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvave",
+        "uuid": 8446784,
+        "checksum": "wafzw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
